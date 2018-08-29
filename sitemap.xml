@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://huangpr.cn/unionn/index.html</loc>
+    <lastmod>2018-08-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://huangpr.cn/unionn/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://huangpr.cn/unionn/tablet/index.html"/>
+    <image:image>
+      <image:loc>http://huangpr.cn/unionn/images/branding.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huangpr.cn/unionn/images/design.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huangpr.cn/unionn/images/90-.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huangpr.cn/unionn/images/75-.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huangpr.cn/unionn/images/development.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huangpr.cn/unionn/images/responsive.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huangpr.cn/unionn/images/marketing.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huangpr.cn/unionn/images/seo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huangpr.cn/unionn/images/facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huangpr.cn/unionn/images/twitter_alt.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://huangpr.cn/unionn/images/google.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
